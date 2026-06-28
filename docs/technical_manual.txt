@@ -1,0 +1,28 @@
+ABC TECHNOLOGIES - TECHNICAL MANUAL & TROUBLESHOOTING GUIDE
+
+1. SYSTEM REQUIREMENTS
+- Operating System: Windows 10/11, macOS 12 (Monterey) or later, Linux (Ubuntu 20.04+).
+- Hardware: Minimum 8 GB RAM (16 GB recommended), 2 GB free disk space.
+- Web Browser: Google Chrome (v100+), Mozilla Firefox (v100+), or Apple Safari (v15+). Cookies and JavaScript must be enabled.
+
+2. TROUBLESHOOTING APPLICATION CRASHES
+- FILE UPLOAD CRASHES
+  * Symptom: The application freezes or crashes when uploading a file.
+  * Root Cause 1: File size exceeds the maximum limit of 50 MB.
+  * Root Cause 2: Unsupported file format. The application only supports PDF, PNG, JPG, JPEG, and CSV formats.
+  * Solution steps:
+    1. Verify the file size is under 50 MB.
+    2. Check the file extension. If uploading spreadsheet data, convert XLS/XLSX to CSV format first.
+    3. For large CSV files, split the file into smaller files (under 10,000 rows each) before uploading.
+    4. Clear browser cache and cookies, then retry the upload.
+    5. Disable browser extensions that may block uploads.
+
+3. TROUBLESHOOTING INSTALLATION & STARTUP
+- ERROR: "PORT 8080 ALREADY IN USE"
+  * Cause: Another service (e.g., local web server) is using port 8080.
+  * Solution: Edit `config.json` in the installation directory, change `"port": 8080` to `"port": 8081` or any other open port, and restart the application.
+
+4. LOGIN AND SESSION ISSUES
+- Symptom: Constant redirects to the login page.
+- Cause: Session timeout after 2 hours of inactivity, or browser blocking essential cookies.
+- Solution: Ensure that cookies are enabled for `[*.]abctech.com` in your browser settings.

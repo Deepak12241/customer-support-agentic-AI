@@ -1,0 +1,19 @@
+ABC TECHNOLOGIES - FREQUENTLY ASKED QUESTIONS (FAQ)
+
+Q: How do I reset my password?
+A: Go to the login page (app.abctech.com), click the "Forgot Password" link, enter your registered email address, and click "Send Reset Link". Check your email inbox for a password reset link and follow the instructions to create a new password.
+
+Q: How do I update my profile details?
+A: Log in to your account, click on your profile avatar in the top right corner, select "Settings", and update your information under the "Profile" tab. Click "Save Changes" to apply.
+
+Q: How do I cancel my subscription?
+A: Navigate to Settings > Billing, scroll down to the subscription status section, and click "Cancel Subscription". Follow the on-screen prompts to confirm. Note that you will retain access to your plan features until the end of your current billing cycle.
+
+Q: Can I get a refund for my subscription?
+A: Annual plan subscriptions are eligible for a full refund if requested within 30 days of the purchase date. Monthly subscriptions are non-refundable. To request a refund, contact our billing department.
+
+Q: How do I deactivate my account?
+A: Log in, go to Settings > Account Management, and click "Deactivate Account". Note that deactivating your account pauses your subscription billing and hides your profile, but does not delete your data. To permanently close your account, contact Account Support.
+
+Q: How do I update my payment method?
+A: Go to Settings > Billing and click "Update Payment Method". Enter your new credit card or PayPal details and save.

@@ -1,0 +1,24 @@
+ABC TECHNOLOGIES - PRICING GUIDE
+
+1. SOFTWARE SUBSCRIPTION PLANS
+We offer three pricing tiers to suit different business sizes:
+
+- BASIC PLAN
+  * Price: $19 per month (or $182.40 billed annually - saves 20%)
+  * Target: Freelancers and small teams.
+  * Features: Up to 5 users, core business management modules, standard email support, 10 GB cloud storage.
+
+- PRO PLAN
+  * Price: $49 per month (or $470.40 billed annually - saves 20%)
+  * Target: Growing businesses.
+  * Features: Unlimited users, advanced analytics, custom integrations, priority email & chat support, 100 GB cloud storage, automated reports.
+
+- ENTERPRISE PLAN
+  * Price: Custom pricing starting at $199 per month (billed annually)
+  * Target: Large organizations.
+  * Features: Custom integrations, 24/7 dedicated phone & slack support, unlimited cloud storage, advanced role-based security, custom SLA guarantees, dedicated account manager.
+
+2. ADD-ONS AND EXTRAS
+- Additional Storage: $5 per 10 GB per month.
+- Advanced API Access: $15 per month (included in Pro and Enterprise plans).
+- Custom Training Session: $99 per 2-hour session.

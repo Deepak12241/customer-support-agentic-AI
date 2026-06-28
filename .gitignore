@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+memory.db
+*.zip
+Customer_Support_Automation_System.zip
+.ipynb_checkpoints/
+.DS_Store

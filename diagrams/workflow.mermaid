@@ -1,0 +1,36 @@
+---
+config:
+  flowchart:
+    curve: linear
+---
+graph TD;
+	__start__([<p>__start__</p>]):::first
+	classifier(classifier)
+	sales_agent(sales_agent)
+	technical_agent(technical_agent)
+	billing_agent(billing_agent)
+	account_agent(account_agent)
+	memory_agent(memory_agent)
+	human_approval(human_approval<hr/><small><em>__interrupt = before</em></small>)
+	supervisor(supervisor)
+	__end__([<p>__end__</p>]):::last
+	__start__ --> classifier;
+	account_agent -.-> human_approval;
+	account_agent -.-> supervisor;
+	billing_agent -.-> human_approval;
+	billing_agent -.-> supervisor;
+	classifier -.-> account_agent;
+	classifier -.-> billing_agent;
+	classifier -.-> memory_agent;
+	classifier -.-> sales_agent;
+	classifier -.-> technical_agent;
+	human_approval --> supervisor;
+	sales_agent -.-> human_approval;
+	sales_agent -.-> supervisor;
+	technical_agent -.-> human_approval;
+	technical_agent -.-> supervisor;
+	memory_agent --> __end__;
+	supervisor --> __end__;
+	classDef default fill:#f2f0ff,line-height:1.2
+	classDef first fill-opacity:0
+	classDef last fill:#bfb6fc

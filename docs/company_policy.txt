@@ -1,0 +1,23 @@
+ABC TECHNOLOGIES - COMPANY POLICY DOCUMENT
+
+1. REFUND POLICY
+- Refund requests are allowed only for annual subscriptions within 30 days of the purchase date.
+- All refund requests must be escalated to a human supervisor for review and approval before processing.
+- Monthly subscriptions are non-refundable.
+
+2. SUBSCRIPTION CANCELLATION
+- Customers may cancel their subscription at any time.
+- Cancellation requests for active enterprise contracts must be reviewed and approved by a human supervisor to check for contractual obligations.
+- Standard cancellation requests are routed to Account/Billing but must undergo supervisor validation to offer retention plans.
+
+3. ACCOUNT CLOSURE
+- Account closure requests are permanent and will result in the deletion of all customer data.
+- To prevent accidental deletion, all account closure requests must be reviewed and approved by a human supervisor.
+
+4. COMPENSATION POLICY
+- In cases of system outages or verified service issues, support agents can offer a maximum compensation of a $10 billing credit or a 5-day subscription extension.
+- Any compensation offer must be reviewed and approved by a supervisor before being communicated to the customer.
+
+5. ESCALATION TO MANAGEMENT
+- If a customer is highly unsatisfied and demands escalation to executive management, the request must be approved by a supervisor.
+- Support agents cannot directly forward issues to management without supervisor validation.
